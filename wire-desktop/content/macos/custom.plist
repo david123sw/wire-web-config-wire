@@ -1,14 +1,14 @@
 <plist version="1.0">
 <dict>
   <key>ElectronTeamID</key>
-  <string>EDF3JCE8BC</string>
+  <string>3T74K363TV</string>
   <key>NSPrincipalClass</key>
   <string>AtomApplication</string>
   <key>NSContactsUsageDescription</key>
-  <string>Allow Wire to access your contacts to connect you with others. We anonymize all information and do not share it with anyone else.</string>
+  <string>Allow Secret to access your contacts to connect you with others. We anonymize all information and do not share it with anyone else.</string>
   <key>NSMicrophoneUsageDescription</key>
-  <string>Allow Wire to access your microphone so you can talk to people.</string>
+  <string>Allow Secret to access your microphone so you can talk to people.</string>
   <key>NSCameraUsageDescription</key>
-  <string>Allow Wire to access your camera so you can place video calls and send photos.</string>
+  <string>Allow Secret to access your camera so you can place video calls and send photos.</string>
 </dict>
 </plist>
