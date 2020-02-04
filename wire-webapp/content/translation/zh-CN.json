@@ -326,6 +326,7 @@
   "conversationYouAccusative": "您",
   "conversationYouDative": "您",
   "conversationYouNominative": "您",
+  "conversationCreatorNominative": "群主",
   "conversationsAllArchived": "所以内容均已存档",
   "conversationsConnectionRequestMany": "{{number}}人等待",
   "conversationsConnectionRequestOne": "一位好友正在等待",
