@@ -325,6 +325,7 @@
   "conversationYouAccusative": "you",
   "conversationYouDative": "you",
   "conversationYouNominative": "you",
+  "conversationCreatorNominative": "Admin",
   "conversationsAllArchived": "Everything archived",
   "conversationsConnectionRequestMany": "{{number}} people waiting",
   "conversationsConnectionRequestOne": "1 person waiting",
