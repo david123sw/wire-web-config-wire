@@ -333,6 +333,8 @@
   "conversationsContacts": "联系人",
   "conversationsEmptyConversation": "群组对话",
   "conversationsNoConversations": "暂无对话",
+  "conversationsPopoverStickyOnTop": "置顶",
+  "conversationsPopoverUnstickyOnTop": "取消置顶",
   "conversationsPopoverArchive": "对话存档？",
   "conversationsPopoverBlock": "拉黑联系人",
   "conversationsPopoverCancel": "取消请求",
