@@ -521,7 +521,7 @@
   "modalAccountLeaveGuestRoomMessage": "对话历史记录将被删除。要保留它，下次创建一个帐户。",
   "modalAccountLogoutAction": "退出",
   "modalAccountLogoutHeadline": "清除数据",
-  "modalAccountLogoutOption": "删除在此设备上所以个人信息和会话。",
+  "modalAccountLogoutOption": "删除在此设备上所有个人信息和会话。",
   "modalAccountNewDevicesFrom": "来自：",
   "modalAccountNewDevicesHeadline": "您的账号在以下时间、设备登录：",
   "modalAccountNewDevicesMessage": "如果您没有新增该设备，请移除该设备并且重设您的密码。",
